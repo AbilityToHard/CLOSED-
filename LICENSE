@@ -1,24 +1,66 @@
-This is free and unencumbered software released into the public domain.
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Yandex.ru</title>
+    <meta charset="utf-8">
+    <meta name="keywords" content="мой сайт, html, привет бро">
+    <meta name="keywords" content="Этот сайт помогает создавать людям собственные сайты">
+    <link rel="shortcut icon" href="https://atom.io/favicon.ico">
+  </head>
+  <body>
+    Добро пожаловать на лучший сервер России, Украины и стран СНГ игры Grand Theft Auto San Andreas!
+Вы хотите благополучно зарабатывать? Покупать отличные дома, возле которых возможно установить множество объектов?
+Крутые автомобили, с уникальным тюнингом? Увидеть и испытать на себе работу в множестве разных фракций и развлечений?
+Найти хороших друзей и получить незабываемые воспоминания?
+Все это, и не только, Вы сможете найти на серверах Absolute Role Play
+Не верите? Так зайдите и убедитесь! Мы ждем Вас!
+    <h1>CLOSED Server</h1>
+    <h2>Error</h2>
+    <p id="ideveloper">ERROR 301 <br> тега p</p>
+    <p><b>ERROR 923</b></p>
+    <p><em>ERROR 23</em></p>
+    <a href="https://www.youtube.com/watch?v=hgcvhn4E1jo">Ролик про обманщика</a>
+    <br>
+    <a href="#ideveloper">Якорь на параграф ideveloper</a>
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+    <ul>
+      <li>Первый элемент списка</li>
+      <li>Второй элемент списка</li>
+      <li> <a href="https://ya.ru">Yandex</a> ссылка на главную страницу</li>
+    </ul>
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+    <hr>
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Названия серверов</th>
+          <th>Кол-во </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>1 проект | Платиниум</td>
+          <td>2 <img src="http://bit.ly/2IqQm5t" height="90"></td>
+        </tr>
+        <tr>
+          <td>2 проект | Титаниум</td>
+          <td>3</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="2">Итого: 5</td>
+        </tr>
+      </tfoot>
+    </table>
 
-For more information, please refer to <https://unlicense.org>
+    <form class="" action="index.html" method="post">
+      <input type="month">
+    </form>
+
+    <div class="">
+
+    </div>
+  </body>
+</html>
